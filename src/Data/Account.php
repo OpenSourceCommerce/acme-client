@@ -90,6 +90,8 @@ class Account
     }
 
     /**
+     * @deprecated
+     *
      * Return initial IP
      * @return string
      */
